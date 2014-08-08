@@ -1,3 +1,1 @@
-algorithms
-==========
-Consists of Algorithms(written in Java) which are widely in Competitive Programming .
+Consists of Algorithms(written in Java) which are widely used in Competitive Programming .
